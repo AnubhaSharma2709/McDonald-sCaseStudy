@@ -1,7 +1,7 @@
 
 # McDonald's Brand Perception Analysis - Case Study
 
-![Market Segmentation Analysis](D:\\Internship Task\\McDonald'sCaseStudy\\images\\Market%20Segmentation%20Analysis.png)
+![Market Segmentation Analysis](<images/Market Segmentation Analysis.png>)
 
 ## Overview
 This case study aims to analyze the perception of McDonald's among different consumer segments. By understanding the variations in brand perception across segments, McDonald's can tailor its marketing strategies to address specific concerns or enhance positive perceptions.
