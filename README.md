@@ -12,6 +12,7 @@ This case study aims to analyze the perception of McDonald's among different con
 3. Develop strategies to either strengthen positive perceptions or modify negative perceptions.
 
 ## Tools and Technologies Used
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)[Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)[Data Analysis](https://img.shields.io/badge/Data_Analysis-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)[Data Analysis](https://img.shields.io/badge/Data_Analysis-red?style=for-the-badge)
 
 
